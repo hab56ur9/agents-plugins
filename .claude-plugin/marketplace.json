@@ -1,0 +1,17 @@
+{
+  "name": "agents-plugins",
+  "owner": {
+    "name": "hab56ur9"
+  },
+  "plugins": [
+    {
+      "name": "transcript",
+      "source": {
+        "source": "github",
+        "repo": "hab56ur9/transcript",
+        "path": "plugin"
+      },
+      "description": "Local realtime meeting transcriber for macOS — run/backfill skills and meeting/lecture note agents."
+    }
+  ]
+}
