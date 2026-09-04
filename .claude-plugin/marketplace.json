@@ -12,15 +12,6 @@
         "path": "plugin"
       },
       "description": "Local realtime meeting transcriber for macOS — run/backfill skills and meeting/lecture note agents."
-    },
-    {
-      "name": "inventory-qa",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/buzzvil-works/inventory-plugins.git",
-        "path": "plugin"
-      },
-      "description": "인벤토리 제품군 QA 지원 스킬 — dsh 기반 디바이스 조회/초기화, staging 서버 시간 조절, 출석체크·친구초대 상태 세팅과 자체 QA."
     }
   ]
 }
